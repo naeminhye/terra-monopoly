@@ -23,7 +23,7 @@ interface Player {
 }
 
 const characters: Character[] = [
-  // { name: "Meymu", color: "#4A90E2" }, // 💙
+  { name: "Meymu", color: "#4A90E2" }, // 💙
   // { name: "Meowmi", color: "#222" }, // 🖤
   { name: "Miimu", color: "#FF99CC" }, // 🩷
   // { name: "Moa", color: "#9B59B6" }, // 💜

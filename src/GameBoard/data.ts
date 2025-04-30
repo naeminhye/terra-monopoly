@@ -608,7 +608,7 @@ export const boardTiles: Tile[] = [
     owner: null,
   },
   {
-    name: "Mont Saint Michel",
+    name: "Mont Saint-Michel",
     type: "city",
     row: 8,
     col: 3,
